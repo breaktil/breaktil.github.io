@@ -9,4 +9,4 @@
 ✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
-✔️ Education\
+✔️ Education \
