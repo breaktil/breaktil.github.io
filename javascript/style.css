@@ -1,6 +1,6 @@
 html{
   height: 100%;
-  background-image: linear-gradient(red 0%, orange 10%, orange 30%, yellow 50%, yellow 70%, green 90%, green 100%);
+  background-image: linear-gradient(red 0%, orange 10%, orange 30%, purple 90%, purple 10%, white 30%, white 70%);
   background-repeat: no-repeat;
   font-family: sans-serif;
   color: #0f222d;
