@@ -1,3 +1,4 @@
 ✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
+✔️ Education \
