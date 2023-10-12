@@ -1,1 +1,3 @@
-todo list with javascript 
+✔️ Experience\
+✔️ Projects \
+✔️ Skills \
